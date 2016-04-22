@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hello humans!  I like coffee but not moon cakes
